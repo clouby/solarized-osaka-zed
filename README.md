@@ -1,4 +1,4 @@
-# Solarized Osaka for Zed
+# Solarized Osaka for [Zed](https://zed.dev/)
 
 ![screenshot](./screenshots/solarized-osaka.png)
 
@@ -8,4 +8,4 @@ This theme is created using [Zed's theme_importer](https://github.com/zed-indust
 
 ## Thanks
 
-Thank you to [craftzdog](https://github.com/craftzdog) for creating this amazing color scheme!
+Thank you to [craftzdog](https://github.com/craftzdog) for creating this amazing color scheme! ❤️
