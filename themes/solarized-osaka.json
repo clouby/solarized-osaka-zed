@@ -1,0 +1,211 @@
+{
+    "$schema": "https://zed.dev/schema/themes/v0.2.0.json",
+    "name": "Solarized Osaka",
+    "author": "Carlos López",
+    "themes": [
+        {
+            "name": "Solarized Osaka",
+            "appearance": "dark",
+            "style": {
+                "accents": [
+                    "#db302d",
+                    "#c94c16",
+                    "#b28500",
+                    "#849900",
+                    "#29a298",
+                    "#268bd3",
+                    "#d23681"
+                ],
+                "background.appearance": "opaque",
+                "border": "#002b36",
+                "border.variant": "#002b36",
+                "border.focused": "#00000000",
+                "border.selected": "#002b36",
+                "border.transparent": "#002b36",
+                "border.disabled": "#002b36",
+                "elevated_surface.background": "#00141a",
+                "terminal.background": "#00141a",
+                "surface.background": "#00141a",
+                "background": "#00141a",
+                "element.background": "#1a6265",
+                "element.hover": "#002b36",
+                "element.selected": "#002b36",
+                "drop_target.background": "#002b36",
+                "ghost_element.hover": "#002b36",
+                "ghost_element.selected": "#002b36",
+                "text": "#9EACAD",
+                "text.muted": "#ffffff80",
+                "status_bar.background": "#00141a",
+                "title_bar.background": "#00141a",
+                "toolbar.background": "#00141a",
+                "tab_bar.background": "#00141a",
+                "tab.inactive_background": "#00141a",
+                "tab.active_background": "#002b36",
+                "search.match_background": "#cb4b1656",
+                "panel.background": "#00141a",
+                "pane_group.border": "#002b36",
+                "scrollbar.thumb.background": "#79797966",
+                "scrollbar.thumb.hover_background": "#646464b3",
+                "scrollbar.thumb.active_background": "#bfbfbf66",
+                "scrollbar.thumb.border": "#79797966",
+                "scrollbar.track.background": "#00141a",
+                "scrollbar.track.border": "#7f7f7f4d",
+                "editor.foreground": "#657b83",
+                "editor.background": "#00141a",
+                "editor.gutter.background": "#00141a",
+                "editor.active_line.background": "#002b36cb",
+                "editor.line_number": "#586e75",
+                "editor.active_line_number": "#657b83",
+                "editor.wrap_guide": "#002b36",
+                "editor.active_wrap_guide": "#002b36",
+                "editor.document_highlight.bracket_background": "#002b3666",
+                "terminal.ansi.black": "#000000",
+                "terminal.ansi.bright_black": "#666666",
+                "terminal.ansi.red": "#b7211f",
+                "terminal.ansi.bright_red": "#dc322f",
+                "terminal.ansi.green": "#0dbc79",
+                "terminal.ansi.bright_green": "#bafb00",
+                "terminal.ansi.yellow": "#b58900",
+                "terminal.ansi.bright_yellow": "#ffc100",
+                "terminal.ansi.blue": "#1b6497",
+                "terminal.ansi.bright_blue": "#268bd2",
+                "terminal.ansi.magenta": "#bc3fbc",
+                "terminal.ansi.bright_magenta": "#d33682",
+                "terminal.ansi.cyan": "#2aa198",
+                "terminal.ansi.bright_cyan": "#29eedf",
+                "terminal.ansi.white": "#eee8d5",
+                "terminal.ansi.bright_white": "#fdf6e3",
+                "vim.yank.background": "#ffffff0b",
+                "vim.normal.background": "#268bd3",
+                "vim.normal.foreground": "#001014",
+                "vim.insert.background": "#849900",
+                "vim.insert.foreground": "#001014",
+                "vim.replace.background": "#db302d",
+                "vim.replace.foreground": "#001014",
+                "vim.visual.background": "#d23681",
+                "vim.visual.foreground": "#282a36ff",
+                "vim.visual_line.background": "#6d71c4",
+                "vim.visual_line.foreground": "#282a36ff",
+                "vim.visual_block.background": "#b28500",
+                "vim.visual_block.foreground": "#282a36ff",
+                "conflict": "#6c71c4",
+                "created": "#859900",
+                "deleted": "#dc322f",
+                "error": "#dc322f",
+                "error.background": "#B73A3400",
+                "error.border": "#ffffff00",
+                "hidden": "#ffffff80",
+                "hint": "#969696ff",
+                "ignored": "#657b83",
+                "info": "#75beff",
+                "info.background": "#268bd200",
+                "info.border": "#4490BF00",
+                "modified": "#268bd2",
+                "warning": "#b58900",
+                "warning.background": "#A9904000",
+                "warning.border": "#ffffff00",
+                "players": [],
+                "syntax": {
+                    "attribute": {
+                        "color": "#268BD2"
+                    },
+                    "boolean": {
+                        "color": "#2AA198"
+                    },
+                    "comment": {
+                        "color": "#586E75"
+                    },
+                    "comment.doc": {
+                        "color": "#586E75"
+                    },
+                    "constant": {
+                        "color": "#2AA198"
+                    },
+                    "constructor": {
+                        "color": "#859900"
+                    },
+                    "emphasis": {
+                        "color": "#9EACAD",
+                        "font_style": "italic"
+                    },
+                    "emphasis.strong": {
+                        "color": "#9EACAD",
+                        "font_weight": 700.0
+                    },
+                    "function": {
+                        "color": "#268BD2"
+                    },
+                    "keyword": {
+                        "color": "#859900"
+                    },
+                    "label": {
+                        "color": "#268BD2"
+                    },
+                    "link_text": {
+                        "color": "#268BD2"
+                    },
+                    "link_uri": {
+                        "color": "#268BD2"
+                    },
+                    "number": {
+                        "color": "#2AA198"
+                    },
+                    "operator": {
+                        "color": "#859900"
+                    },
+                    "preproc": {
+                        "color": "#DC322F"
+                    },
+                    "punctuation": {
+                        "color": "#859900"
+                    },
+                    "punctuation.bracket": {
+                        "color": "#859900"
+                    },
+                    "punctuation.delimiter": {
+                        "color": "#859900"
+                    },
+                    "punctuation.list_marker": {
+                        "color": "#859900"
+                    },
+                    "punctuation.special": {
+                        "color": "#859900"
+                    },
+                    "string": {
+                        "color": "#2AA198"
+                    },
+                    "string.escape": {
+                        "color": "#268BD2"
+                    },
+                    "string.regex": {
+                        "color": "#2AA198"
+                    },
+                    "string.special": {
+                        "color": "#CB4B16"
+                    },
+                    "string.special.symbol": {
+                        "color": "#CB4B16"
+                    },
+                    "tag": {
+                        "color": "#859900"
+                    },
+                    "text.literal": {
+                        "color": "#2AA198"
+                    },
+                    "title": {
+                        "color": "#268BD2"
+                    },
+                    "type": {
+                        "color": "#B58900"
+                    },
+                    "variable": {
+                        "color": "#9EACAD"
+                    },
+                    "variable.special": {
+                        "color": "#CB4B16"
+                    }
+                }
+            }
+        }
+    ]
+}

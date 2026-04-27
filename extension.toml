@@ -1,0 +1,7 @@
+id = "solarized-osaka"
+name = "Solarized Osaka Themes"
+version = "0.0.1"
+schema_version = 1
+authors = ["Carlos López <celb25@gmail.com>"]
+description = "Solarized Osaka color schemes for Zed."
+repository = "https://github.com/clouby/solarized-osaka-zed-theme"
